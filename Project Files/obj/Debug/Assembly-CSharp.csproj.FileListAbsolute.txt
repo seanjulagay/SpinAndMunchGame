@@ -1,0 +1,2 @@
+C:\Users\bongski\Desktop\Sean\Unity\Projects\Spin and Munch\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\bongski\Desktop\Sean\Unity\Projects\Spin and Munch\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
