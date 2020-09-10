@@ -2,6 +2,7 @@
 
 - Is a 2D child-friendly physics-based game made with Unity and C#. This game is finished and will not likely receive support in the future.
 - This was submitted as the only digital game for our physics project. Pretty proud of it!
+- **DISCLAIMER:** Not sure if this includes the source code. Just backed it up from old files.
 
 ## Controls
 
